@@ -1,4 +1,4 @@
-# Data Cleaning Project - DecodeLabs Internship
+# Data Cleaning Project 
 
 ## What this project does
 Cleans a raw sales dataset by handling missing values, 
